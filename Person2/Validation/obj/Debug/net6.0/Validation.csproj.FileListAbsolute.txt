@@ -1,0 +1,15 @@
+C:\SoftUni-OOP\Person2\Validation\bin\Debug\net6.0\Validation.exe
+C:\SoftUni-OOP\Person2\Validation\bin\Debug\net6.0\Validation.deps.json
+C:\SoftUni-OOP\Person2\Validation\bin\Debug\net6.0\Validation.runtimeconfig.json
+C:\SoftUni-OOP\Person2\Validation\bin\Debug\net6.0\Validation.dll
+C:\SoftUni-OOP\Person2\Validation\bin\Debug\net6.0\Validation.pdb
+C:\SoftUni-OOP\Person2\Validation\obj\Debug\net6.0\Validation.csproj.AssemblyReference.cache
+C:\SoftUni-OOP\Person2\Validation\obj\Debug\net6.0\Validation.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni-OOP\Person2\Validation\obj\Debug\net6.0\Validation.AssemblyInfoInputs.cache
+C:\SoftUni-OOP\Person2\Validation\obj\Debug\net6.0\Validation.AssemblyInfo.cs
+C:\SoftUni-OOP\Person2\Validation\obj\Debug\net6.0\Validation.csproj.CoreCompileInputs.cache
+C:\SoftUni-OOP\Person2\Validation\obj\Debug\net6.0\Validation.dll
+C:\SoftUni-OOP\Person2\Validation\obj\Debug\net6.0\refint\Validation.dll
+C:\SoftUni-OOP\Person2\Validation\obj\Debug\net6.0\Validation.pdb
+C:\SoftUni-OOP\Person2\Validation\obj\Debug\net6.0\Validation.genruntimeconfig.cache
+C:\SoftUni-OOP\Person2\Validation\obj\Debug\net6.0\ref\Validation.dll
